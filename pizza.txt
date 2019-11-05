@@ -4,7 +4,7 @@ pizza dough
 pizza sauce
 green peppers
 mushrooms
-pineapple
+pineapple 
 mozarella cheese
 jalapenos!
 
